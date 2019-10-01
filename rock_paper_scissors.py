@@ -67,7 +67,7 @@ while True:
 			else:
 				print("Computer picked Scissors")
 				print("Scissors beat Paper")
-			computerScore += 1
+				computerScore += 1
 	elif choice == "s":
 		print(name + " Picked Scissors")
 		if computerChoice == "p":
